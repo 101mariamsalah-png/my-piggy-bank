@@ -1,6 +1,7 @@
 [Five_C_Practice_Projects.md](https://github.com/user-attachments/files/31803737/Five_C_Practice_Projects.md)
 # Five C Practice Projects — Function-by-Function Briefs
-
+name :mariam salah hamadto hagag
+mail:101mariamsalah@gmail.com
 **Module:** Microcontroller-Based Systems (90 Hours)
 **Author:** Ahmed Ellamie · ahmed.ellamiee@gmail.com
 **Scope:** Days 01 – 03 (plain C only — no AVR, no hardware, no extra libraries)
