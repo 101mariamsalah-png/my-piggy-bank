@@ -1,7 +1,11 @@
+name :mariam salah hamadeto hagag
+mail : 101mariamsalah@gmail.com
+
+
+
 [Five_C_Practice_Projects.md](https://github.com/user-attachments/files/31803737/Five_C_Practice_Projects.md)
 # Five C Practice Projects — Function-by-Function Briefs
-name :mariam salah hamadto hagag
-mail:101mariamsalah@gmail.com
+
 **Module:** Microcontroller-Based Systems (90 Hours)
 **Author:** Ahmed Ellamie · ahmed.ellamiee@gmail.com
 **Scope:** Days 01 – 03 (plain C only — no AVR, no hardware, no extra libraries)
@@ -23,7 +27,6 @@ mail:101mariamsalah@gmail.com
    never touches the data directly.
 3. Every function is `static`, and every function stays under 40 lines.
 4. `scanf` returns a number. Check it. Bad input must never crash the program.
-
 
 ---
 
